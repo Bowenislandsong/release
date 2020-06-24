@@ -37,6 +37,12 @@
       'periodic-ci-operator-framework-operator-lifecycle-managment-master-rhoperator-metric-e2e-aws-olm-master-daily': {
         receiver: 'OLM-rh-operators',
       },
+      'periodic-ci-operator-framework-operator-lifecycle-managment-rhoperator-metric-e2e-aws-olm-release-4.5-daily': {
+        receiver: 'OLM-rh-operators',
+      },
+      'periodic-ci-operator-framework-operator-lifecycle-managment-rhoperator-metric-e2e-aws-olm-release-4.4-daily': {
+        receiver: 'OLM-rh-operators',
+      },
     },
   },
 }
